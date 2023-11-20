@@ -24,8 +24,8 @@ Here are some related projects
 ![App Screenshot](https://i.ibb.co/fDjmPjD/Capture-decran-2023-11-20-170452.png)
 ![App Screenshot](https://i.ibb.co/xqWZFsm/Capture-decran-2023-11-20-170604.png)
 
-=======
-# PeoplePerTask
+
+# Description
 Le schéma de données fondamental pour la plateforme PeoplePerTask a été élaboré afin de répondre de manière efficace aux exigences
 de mise en relation entre utilisateurs, projets, catégories, sous-catégories, freelances, offres, et témoignages. Dans cette conception,
 chaque entité principale, telle que les utilisateurs, les projets, les catégories, les sous-catégories, les freelances, les offres, et les témoignages,
